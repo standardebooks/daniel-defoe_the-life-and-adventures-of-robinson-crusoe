@@ -1,2 +1,34 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+abbr.compass{
+	white-space: nowrap;
+	font-variant: all-small-caps;
+}
+
+abbr.name{
+	white-space: nowrap;
+}
+
+b{
+	font-variant: small-caps;
+	font-weight: normal;
+}
+
+[epub|type~="z3998:diary"]{
+	margin: 0;
+}
+
+[epub|type~="z3998:diary-entry"]{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+[epub|type~="z3998:diary-entry"] > p:first-child,
+[epub|type~="z3998:diary-entry"] > header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:diary-entry"] > p time{
+	font-style: italic;
+}
