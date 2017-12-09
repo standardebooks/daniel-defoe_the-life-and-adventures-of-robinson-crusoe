@@ -27,8 +27,6 @@ span[epub|type~="subtitle"]{
 
 table{
 	border-collapse: collapse;
-	border-width: 1px;
-	border-style: solid;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	margin-left: auto;
@@ -43,12 +41,7 @@ td{
 	vertical-align: top;
 }
 
-th{
+thead td{
 	text-align: center;
 	font-variant: small-caps;
-	font-weight: normal;
-	border-width: 1px;
-	border-style: solid;
-	padding: .5em;
-	width: 50%;
 }
