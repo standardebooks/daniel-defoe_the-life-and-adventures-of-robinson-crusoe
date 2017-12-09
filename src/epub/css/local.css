@@ -20,8 +20,7 @@ b{
 	margin-right: 0;
 }
 
-[epub|type~="z3998:diary-entry"] > p:first-child,
-[epub|type~="z3998:diary-entry"] > header + p{
+[epub|type~="z3998:diary-entry"] > p:first-child{
 	text-indent: 0;
 }
 
