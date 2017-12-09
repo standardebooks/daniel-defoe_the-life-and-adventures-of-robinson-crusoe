@@ -6,10 +6,6 @@ abbr.compass{
 	font-variant: all-small-caps;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 b{
 	font-variant: small-caps;
 	font-weight: normal;
@@ -31,4 +27,38 @@ b{
 
 [epub|type~="z3998:diary-entry"] > p time{
 	font-style: italic;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+table{
+	border-collapse: collapse;
+	border-width: 1px;
+	border-style: solid;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td{
+	border-width: 1px;
+	border-style: solid;
+	padding: .5em;
+	width: 50%;
+	vertical-align: top;
+}
+
+th{
+	text-align: center;
+	font-variant: small-caps;
+	font-weight: normal;
+	border-width: 1px;
+	border-style: solid;
+	padding: .5em;
+	width: 50%;
 }
