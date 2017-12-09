@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/daniel-defoe/robinson-crusoe</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<meta property="se:revision-number">0</meta>
@@ -17,8 +17,11 @@
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">Robinson Crusoe</dc:title>
-		<meta property="file-as" refines="#title">Robinson Crusoe</meta>
+		<dc:title id="title">The Life and Adventures of Robinson Crusoe</dc:title>
+		<meta property="title-type" refines="#title">main</meta>
+		<meta property="file-as" refines="#title">Life and Adventures of Robinson Crusoe, The</meta>
+		<dc:title id="title-short">Robinson Crusoe</dc:title>
+		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Shipwreck survival -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Islands -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Crusoe, Robinson (Fictitious character) -- Fiction</dc:subject>
