@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-12-09T18:37:23Z</dc:date>
+		<meta property="dcterms:modified">2017-12-09T18:37:23Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,14 +40,14 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Robinson Crusoe&lt;/i&gt; is of the most popular books ever written in the English language, published in innumerable editions and translated into almost every language of the world, not to mention the many versions created in film, television and even radio. First published in 1719, it can also claim to be one of the first novels ever written in English.&lt;/p&gt;
 			&lt;p&gt;Written in the form of an autobiography, it describes the life of the eponymous narrator Robinson Crusoe. A wild youth, he breaks away from his family to go to sea. After many adventures including being captured and made into a slave, he is eventually shipwrecked on a remote island off the coast of South America. Crusoe is the only survivor of the wreck. He is thus forced to find ways to survive on the island without any other assistance. His first years are miserable and hard, but he ultimately manages to domesticate goats and raise crops, making his life tolerable. While suffering from an illness, he undergoes a profound religious conversion, and begins to ascribe his survival to a beneficent Providence.&lt;/p&gt;
-			&lt;p&gt;Crusoe lives alone on the island for more than twenty years until his life changes dramatically after he discovers a human footprint in the sand, indicating the undeniable presence of other human beings. These, it turns out, are the native inhabitants of the mainland, who visit the island only occasionally. To Crusoe’s horror, he discovers that these people practice cannibalism. He rescues one of their prisoners, who becomes his servant (or “man”) Friday, named for the day of the week on which he rescued him. Together, they have an easier life together for some years until they are ultimately rescued and return to England.&lt;/p&gt;
+			&lt;p&gt;Crusoe lives alone on the island for more than twenty years until his life changes dramatically after he discovers a human footprint in the sand, indicating the undeniable presence of other human beings. These, it turns out, are the native inhabitants of the mainland, who visit the island only occasionally. To Crusoe’s horror, he discovers that these people practice cannibalism. He rescues one of their prisoners, who becomes his servant (or “man”) Friday, named for the day of the week on which he rescued him, and together, their adventures continue.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/521</dc:source>
 		<dc:source>https://archive.org/details/lifeandadventur11defogoog</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">121248</meta>
+		<meta property="se:reading-ease.flesch">44.48</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Robinson_Crusoe</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/daniel-defoe_robinson-crusoe</meta>
 		<dc:creator id="author">Daniel Defoe</dc:creator>
@@ -71,6 +71,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
