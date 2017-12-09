@@ -10,17 +10,9 @@ b{
 	font-weight: normal;
 }
 
-[epub|type~="z3998:diary"]{
-	margin: 0;
-}
-
 [epub|type~="z3998:diary-entry"]{
 	margin-left: 0;
 	margin-right: 0;
-}
-
-[epub|type~="z3998:diary-entry"] > p:first-child{
-	text-indent: 0;
 }
 
 [epub|type~="z3998:diary-entry"] > p time{
