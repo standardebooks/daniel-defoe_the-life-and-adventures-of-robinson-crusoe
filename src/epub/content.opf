@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Life and Adventures of Robinson Crusoe</dc:title>
 		<meta property="title-type" refines="#title">main</meta>
 		<meta property="file-as" refines="#title">Life and Adventures of Robinson Crusoe, The</meta>
@@ -38,21 +38,25 @@
 		<dc:subject id="subject-4">Atlantic Ocean -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Adventure stories</dc:subject>
 		<dc:subject id="subject-6">Castaways -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/521</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/521</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/521</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/521</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/521</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/521</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008111146</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008104288</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008100158</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85001072</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008100157</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Shipwrecked on a remote tropical island, a resourceful Englishman manages to survive alone for many years.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Robinson Crusoe&lt;/i&gt; is one of the most popular books ever written in the English language, published in innumerable editions and translated into almost every language of the world, not to mention the many versions created in film, television and even radio. First published in 1719, it can also claim to be one of the first novels ever written in English.&lt;/p&gt;
 			&lt;p&gt;Written in the form of an autobiography, it describes the life of the eponymous narrator Robinson Crusoe. A wild youth, he breaks away from his family to go to sea. After many adventures including being captured and made into a slave, he is eventually shipwrecked on a remote island off the coast of South America. Crusoe is the only survivor of the wreck. He is thus forced to find ways to survive on the island without any other assistance. His first years are miserable and hard, but he ultimately manages to domesticate goats and raise crops, making his life tolerable. While suffering from an illness, he undergoes a profound religious conversion, and begins to ascribe his survival to a beneficent Providence.&lt;/p&gt;
 			&lt;p&gt;Crusoe lives alone on the island for more than twenty years until his life changes dramatically after he discovers a human footprint in the sand, indicating the undeniable presence of other human beings. These, it turns out, are the native inhabitants of the mainland, who visit the island only occasionally. To Crusoe’s horror, he discovers that these people practice cannibalism. He rescues one of their prisoners, who becomes his servant (or “man”) Friday, named for the day of the week on which he rescued him, and together, their adventures continue.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/521</dc:source>
 		<dc:source>https://archive.org/details/lifeandadventur11defogoog</dc:source>
