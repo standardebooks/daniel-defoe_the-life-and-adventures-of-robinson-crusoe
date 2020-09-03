@@ -10,12 +10,6 @@
 	font-style: italic;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-	font-variant: small-caps;
-}
-
 table{
 	border-collapse: collapse;
 	margin-top: 1em;
