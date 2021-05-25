@@ -32,6 +32,7 @@
 		<meta property="title-type" refines="#title">main</meta>
 		<meta property="file-as" refines="#title">Life and Adventures of Robinson Crusoe, The</meta>
 		<dc:title id="title-short">Robinson Crusoe</dc:title>
+		<meta property="file-as" refines="#title-short">Robinson Crusoe</meta>
 		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Shipwreck survival -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Islands -- Fiction</dc:subject>
