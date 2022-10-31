@@ -59,6 +59,9 @@
 		<meta property="group-position" refines="#collection-2">27</meta>
 		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta id="collection-4" property="belongs-to-collection">Robinson Crusoe</meta>
+		<meta property="collection-type" refines="#collection-4">series</meta>
+		<meta property="group-position" refines="#collection-4">1</meta>
 		<dc:description id="description">Shipwrecked on a remote tropical island, a resourceful Englishman manages to survive alone for many years.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Robinson Crusoe&lt;/i&gt; is one of the most popular books ever written in the English language, published in innumerable editions and translated into almost every language of the world, not to mention the many versions created in film, television and even radio. First published in 1719, it can also claim to be one of the first novels ever written in English.&lt;/p&gt;
