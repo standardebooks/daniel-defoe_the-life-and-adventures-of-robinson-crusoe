@@ -34,7 +34,7 @@
 		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Shipwreck survival -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Islands -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Crusoe, Robinson (Fictitious character) -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Crusoe, Robinson (Fictitious character)</dc:subject>
 		<dc:subject id="subject-4">Atlantic Ocean -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Adventure stories</dc:subject>
 		<dc:subject id="subject-6">Castaways -- Fiction</dc:subject>
@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008104288</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
-		<meta property="term" refines="#subject-3">sh2008100158</meta>
+		<meta property="term" refines="#subject-3">no2020038096</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
