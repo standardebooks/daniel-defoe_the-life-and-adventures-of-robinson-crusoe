@@ -69,7 +69,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/521</dc:source>
 		<dc:source>https://archive.org/details/lifeandadventur11defogoog</dc:source>
 		<meta property="se:word-count">121270</meta>
-		<meta property="se:reading-ease.flesch">44.48</meta>
+		<meta property="se:reading-ease.flesch">44.99</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Robinson_Crusoe</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/daniel-defoe_the-life-and-adventures-of-robinson-crusoe</meta>
 		<dc:creator id="author">Daniel Defoe</dc:creator>
