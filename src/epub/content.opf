@@ -64,7 +64,7 @@
 		<meta id="collection-4" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
 		<meta property="group-position" refines="#collection-4">3</meta>
-		<dc:abstract>Shipwrecked on a remote tropical island, a resourceful Englishman manages to survive alone for many years.</dc:abstract>
+		<meta property="schema:abstract">Shipwrecked on a remote tropical island, a resourceful Englishman manages to survive alone for many years.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Robinson Crusoe&lt;/i&gt; is one of the most popular books ever written in the English language, published in innumerable editions and translated into almost every language of the world, not to mention the many versions created in film, television and even radio. First published in 1719, it can also claim to be one of the first novels ever written in English.&lt;/p&gt;
 			&lt;p&gt;Written in the form of an autobiography, it describes the life of the eponymous narrator Robinson Crusoe. A wild youth, he breaks away from his family to go to sea. After many adventures including being captured and made into a slave, he is eventually shipwrecked on a remote island off the coast of South America. Crusoe is the only survivor of the wreck. He is thus forced to find ways to survive on the island without any other assistance. His first years are miserable and hard, but he ultimately manages to domesticate goats and raise crops, making his life tolerable. While suffering from an illness, he undergoes a profound religious conversion, and begins to ascribe his survival to a beneficent Providence.&lt;/p&gt;
